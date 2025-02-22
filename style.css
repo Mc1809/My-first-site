@@ -1,0 +1,43 @@
+﻿
+*{
+    font-family: "Josefin Sans", serif;
+}
+body{
+
+    background-color: #00d8ff;
+}
+
+ul {
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 80px;
+    list-style: none;
+    display: flex;
+    background-color: #00d8ff;
+    margin: 0;
+}
+
+    ul li {
+        background-color: orangered;
+        padding: 8px 15px;
+        margin: 5px 15px;
+        border: 1px solid #444;
+        color: #bbb;
+        border-radius: 15px;
+    }
+
+        ul li:hover {
+            background-color: #6a1b9a;
+            cursor: pointer;
+        }
+
+.tutor{
+    text-align:center;
+}
+.txt {
+  
+  font-size: 24px;
+}
+
+
+

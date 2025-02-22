@@ -1,0 +1,22 @@
+﻿* {
+    font-family: "Josefin Sans", serif;
+}
+.main_text {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 40px auto;
+}
+.main_text img {
+        height: 280px;
+        border-radius: 8px;
+}
+
+h1 {
+    font-size: 28px;
+    color: Gray;
+}
+
+p {
+    font-size: 18px
+}
